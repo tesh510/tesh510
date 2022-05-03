@@ -10,8 +10,12 @@ Started from working in baking, wanted to make a career change. Started my codin
 *   ✉️  You can contact me at [hiteshdeo@yahoo.com](mailto:hiteshdeo@yahoo.com)
 *   🚀  I'm currently working on [#Clippy](http://https://clippy22.herokuapp.com/)
 *   🧠  I'm learning Python
-*   ⚡  In reality, i live in a video game world where I am the main character, and I battle endless enemies, to protect the integrity of mankind.<a href="https://www.github.com/tesh510" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/tesh510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+*   ⚡  In reality, i live in a video game world where I am the main character, and I battle endless enemies, to protect the integrity of mankind.
+
+
+<a href="https://www.github.com/tesh510" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/tesh510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+            ### Skills<p align="left">
                                 <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -31,11 +35,10 @@ Started from working in baking, wanted to make a career change. Started my codin
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
-                    
-                  ### Socials
+                ### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://discord.com/users/Tesh_Dee#9928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
