@@ -4,7 +4,7 @@ Hi 👋 My name is Hitesh Deo
 Software Engineer in the Bay Area
 ---------------------------------
 
-Started from working in baking, wanted to make a career change. Started my coding journey in 2022. A lot learned and gained, a lot more to perfect and clean up.
+Started from working in banking, wanted to make a career change. Started my coding journey in 2022. A lot learned and gained, a lot more to perfect and clean up.
 
 *   🌍  I'm based in Newark , CA
 *   ✉️  You can contact me at [hiteshdeo@yahoo.com](mailto:hiteshdeo@yahoo.com)
