@@ -16,7 +16,7 @@ Started from working in baking, wanted to make a career change. Started my codin
 <a href="https://www.github.com/tesh510" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/tesh510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
            
-           ### Skills
+### Skills
             
 <p align="left">
                                 <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
@@ -41,14 +41,13 @@ Started from working in baking, wanted to make a career change. Started my codin
 </p>
                
                
-               ### Socials
-                  
+### Socials
                   
 <p align="left">
                           
-                      <a href="https://discord.com/users/Tesh_Dee#9928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/Tesh_Dee#9928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.github.com/tesh510" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/tesh510" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="http://www.instagram.com/tesh_dee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
