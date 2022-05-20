@@ -8,7 +8,7 @@ Started from working in banking, wanted to make a career change. Started my codi
 
 *   🌍  I'm based in Newark , CA
 *   ✉️  You can contact me at [hiteshdeo@yahoo.com](mailto:hiteshdeo@yahoo.com)
-*   🚀  I'm currently working on [#Clippy](http://https://clippy22.herokuapp.com/)
+*   🚀  I'm currently working on [blindspot](http://https://blindspot-1.herokuapp.com/)
 *   🧠  I'm learning Python
 *   ⚡  In reality, i live in a video game world where I am the main character, and I battle endless enemies, to protect the integrity of mankind.
 
